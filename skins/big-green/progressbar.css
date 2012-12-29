@@ -1,0 +1,15 @@
+.big-green {
+	border-radius: 10px;
+	padding: 5px;
+	background: #000924;
+	border: 1px solid #111;
+	box-shadow: 0 2px 3px #333;
+}
+
+.big-green div {
+	background: #1cc300 url(type_4.gif) top right;
+	border-radius: 6px;
+	box-shadow: 0 5px 5px #ccc inset;
+	text-indent: 99999px;
+	overflow: hidden;
+}

@@ -1,0 +1,10 @@
+.jquery-ui-like {
+	border-radius: 4px;
+	background: #FFF;
+	border: 1px solid #AAA;
+	overflow: hidden;		
+}
+.jquery-ui-like div {
+	background-image: url(pbar-ani.gif);
+	border-right: 1px solid #AAA;
+}
